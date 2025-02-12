@@ -9,7 +9,9 @@ Smart Fridge Assistant is a React-based application designed to help you manage 
 - Recipe suggestions based on available ingredients
 
 ## Demo
-You can also watch a demo video [here](demo/Smart%20Fridge%20Assistant.mp4).
+
+https://github.com/user-attachments/assets/b2b014cf-4b2a-4d4f-ac1d-c4c977364ed6
+
 
 ## Installation
 To get started with the project, clone the repository and install the dependencies:
