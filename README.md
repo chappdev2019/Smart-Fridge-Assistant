@@ -5,7 +5,6 @@ Smart Fridge Assistant is a React-based application designed to help you manage 
 
 ## Features
 - Track fridge contents
-- Notifications for expiring products
 - Recipe suggestions based on available ingredients
 
 ## Demo
